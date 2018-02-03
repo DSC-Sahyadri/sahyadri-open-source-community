@@ -43,4 +43,4 @@ Thats it! You are done with the first part. Read and practice alot on how to use
 - Watch the TEDx interview with [Linus Torvalds -The Mind Behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux)
 
 ## Contribution
-If you'd like to contribute to the repository with any learning material, free free to submit a pull request by adding the links to the contents. or Raise an issue if you want help or have an idea for an open-source project.  
+If you'd like to contribute to the repository with any learning material, feel free to submit a pull request by adding the links to the contents. or Raise an issue if you want help or have an idea for an open-source project.  
