@@ -41,6 +41,11 @@ Thats it! You are done with the first part. Read and practice alot on how to use
 - -[Learning How to Git: Merging Branches and Resolving Conflict](https://medium.com/@haydar_ai/learning-how-to-git-merging-branches-and-resolving-conflict-61652834d4b0)
 - Install [VSCode](https://code.visualstudio.com/) and learn how to [use git](https://www.hongkiat.com/blog/version-control-git-vs-code/) in it.
 - Watch the TEDx interview with [Linus Torvalds -The Mind Behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux)
+- [Websites for you and your projects.
+Hosted directly from your GitHub repository. Just edit, push, and your changes are live.](https://pages.github.com/)
+- [Student Developer Pack
+The best developer tools, free for students](https://education.github.com/pack)
+- [FastHub](https://play.google.com/store/apps/details?id=com.fastaccess.github&hl=en) - Github Android Client
 
 ## Contribution
 If you'd like to contribute to the repository with any learning material, feel free to submit a pull request by adding the links to the contents. or Raise an issue if you want help or have an idea for an open-source project.  
